@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: PaleTurquoise;
+    border-radius: 10px;
+    padding: 7px;
+    
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 30px;
+    text-align: center;
+}
+
+footer {
+    background-color: plum;
+    border: 3px solid rgb(243, 143, 159);
+    text-align: center;
+}
+
+footer p {
+    background-color: aliceblue;
+}
